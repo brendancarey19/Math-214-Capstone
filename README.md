@@ -5,4 +5,4 @@ The .cpp file contains the decoding algorithm, with an input file of a bipartite
 
 The .m file contains the script I wrote to calculate the eigenvaules of the graphs' adjancency matrices.  
 
-All code is my own. The algorithm implemented in decoder.cpp is based off of a procedural outline detailed in a paper by tim Roughgarden and Gregory Valiant, which can be found a this link: http://timroughgarden.org/s17/l/l19.pdf
+All code is my own. The algorithm implemented in decoder.cpp is based off of a procedural outline detailed in a paper by Tim Roughgarden and Gregory Valiant, which can be found a this link: http://timroughgarden.org/s17/l/l19.pdf
